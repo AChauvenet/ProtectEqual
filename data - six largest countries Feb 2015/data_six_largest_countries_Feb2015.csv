@@ -1,0 +1,267 @@
+country,ecoregion,pi,ai
+Argentina,Alto Paraná Atlantic forests,1692.198067,22602.64593
+Argentina,Araucaria moist forests,404.2210442,4577.689213
+Argentina,Central Andean dry puna,3.62355068,29760.15274
+Argentina,Central Andean puna,4520.593274,87451.76027
+Argentina,Dry Chaco,2497.168214,490980.6387
+Argentina,Espinal,81.24619227,299214.51
+Argentina,High Monte,4170.392479,116983.3084
+Argentina,Humid Chaco,1172.701654,162684.5663
+Argentina,Humid Pampas,239.8178243,398919.9194
+Argentina,Low Monte,1129.417549,354111.0191
+Argentina,Magellanic subpolar forests,4297.731209,28310.15116
+Argentina,Paraná flooded savanna,215.9013784,36840.10408
+Argentina,Patagonian steppe,8209.363015,535415.8559
+Argentina,Southern Andean steppe,16605.71405,95292.67143
+Argentina,Southern Andean Yungas,2840.950557,47644.39262
+Argentina,Southern Cone Mesopotamian savanna,1.041439674,26860.29967
+Argentina,Uruguayan savanna,0.003147723,228.0554146
+Argentina,Valdivian temperate forests,10158.18011,44615.95438
+Australia,Antipodes Subantarctic Islands tundra,0,74.72068565
+Australia,Arnhem Land tropical savanna,27654.64615,157890.6158
+Australia,Australian Alps montane grasslands,7647.382111,12022.65102
+Australia,Brigalow tropical savanna,8404.359624,342921.8872
+Australia,Cape York Peninsula tropical savanna,18936.80066,116301.6183
+Australia,Carnarvon xeric shrublands,6264.291107,90531.03019
+Australia,Carpentaria tropical savanna,16106.87847,360077.0185
+Australia,Central Ranges xeric scrub,3978.357716,282290.7732
+Australia,Coolgardie woodlands,13680.88984,137680.1769
+Australia,Eastern Australia mulga shrublands,7337.563343,254478.3199
+Australia,Eastern Australian temperate forests,40195.07672,221705.84
+Australia,Einasleigh upland savanna,3866.466432,128756.3481
+Australia,Esperance mallee,23587.48372,115733.2592
+Australia,Eyre and York mallee,4085.807935,60960.44166
+Australia,Gibson desert,18537.58685,156213.9681
+Australia,Great Sandy-Tanami desert,20366.3732,824816.6638
+Australia,Great Victoria desert,67657.85957,425296.1181
+Australia,Jarrah-Karri forest and shrublands,4709.778442,10359.68195
+Australia,Kimberly tropical savanna,28814.99601,347593.5787
+Australia,Lord Howe Island subtropical forests,7.200531233,10.47990527
+Australia,Mitchell grass downs,8362.287105,461758.2184
+Australia,Mount Lofty woodlands,900.2952147,23789.39203
+Australia,Murray-Darling woodlands and mallee,31335.01321,198366.805
+Australia,Naracoorte woodlands,1731.244031,27373.7747
+Australia,Nullarbor Plains xeric shrublands,26835.70532,195632.7855
+Australia,Pilbara shrublands,11603.06381,180012.9623
+Australia,Queensland tropical rain forests,10972.85534,32608.28549
+Australia,Simpson desert,27494.08726,585791.9225
+Australia,Southeast Australia temperate forests,30262.987,272537.3719
+Australia,Southeast Australia temperate savanna,11919.29979,322944.797
+Australia,Southwest Australia savanna,8549.224441,169173.7967
+Australia,Southwest Australia woodlands,5800.68574,46142.9706
+Australia,Swan Coastal Plain Scrub and Woodlands,1784.585455,15005.22897
+Australia,Tasmanian Central Highland forests,2525.641088,18705.67879
+Australia,Tasmanian temperate forests,1830.07226,18104.83163
+Australia,Tasmanian temperate rain forests,1974.981256,31141.22307
+Australia,Tirari-Sturt stony desert,4269.357262,377723.5624
+Australia,Victoria Plains tropical savanna,15064.74395,226131.1204
+Australia,Western Australian Mulga shrublands,6520.354042,461472.7225
+Brazil,Alto Paraná Atlantic forests,4704.172171,376039.1385
+Brazil,Araucaria moist forests,2005.551474,211973.1513
+Brazil,Atlantic Coast restingas,17.41454718,7489.566937
+Brazil,Atlantic dry forests,6080.44255,115358.786
+Brazil,Bahia coastal forests,1269.536323,109401.9471
+Brazil,Bahia interior forests,2578.025868,230432.0633
+Brazil,Beni savanna,0,9.602976744
+Brazil,Caatinga,7681.814237,735617.3965
+Brazil,Caatinga Enclaves moist forests,9.369155619,4808.109868
+Brazil,Campos Rupestres montane savanna,2066.32949,26451.47186
+Brazil,Caqueta moist forests,4.06596013,12687.4498
+Brazil,Cerrado,44317.44297,1906866.335
+Brazil,Chiquitano dry forests,2892.505102,65956.93565
+Brazil,Dry Chaco,2.383007646,129.728598
+Brazil,Espinal,0,1.494926081
+Brazil,Fernando de Noronha-Atol das Rocas moist forests,0,16.55381885
+Brazil,Guianan Highlands moist forests,7642.960887,28135.13714
+Brazil,Guianan moist forests,35277.84588,68774.45978
+Brazil,Guianan piedmont and lowland moist forests,23958.84377,85527.6981
+Brazil,Guianan savanna,2739.174087,77964.27281
+Brazil,Gurupa varzeá,0,9633.213944
+Brazil,Humid Chaco,0,1197.829629
+Brazil,Iquitos varzeá,397.883148,31261.02482
+Brazil,Japurá-Solimoes-Negro moist forests,28219.0039,235672.7143
+Brazil,Juruá-Purus moist forests,1389.889525,243089.4415
+Brazil,Madeira-Tapajós moist forests,65432.99557,661401.9573
+Brazil,Marajó varzeá,0,83738.35285
+Brazil,Maranhão Babaçu forests,89.44849043,142529.9375
+Brazil,Mato Grosso seasonal forests,12481.82035,414912.418
+Brazil,Monte Alegre varzeá,132.1254759,66913.44862
+Brazil,Negro-Branco moist forests,14107.0956,48875.76651
+Brazil,Northeastern Brazil restingas,0,10005.692
+Brazil,Pantanal,2683.757629,137192.406
+Brazil,Pantepui,1254.325806,5055.185998
+Brazil,Pernambuco coastal forests,67.36839475,17456.25792
+Brazil,Pernambuco interior forests,65.20232204,22614.17897
+Brazil,Purus-Madeira moist forests,28669.56943,174387.5619
+Brazil,Purus varzeá,4710.081332,144775.3623
+Brazil,Rio Negro campinarana,6668.756034,80862.63648
+Brazil,Serra do Mar coastal forests,6808.965808,104253.8257
+Brazil,Solimões-Japurá moist forests,7609.904817,36364.42496
+Brazil,Southern Cone Mesopotamian savanna,0,83.78819924
+Brazil,Southwest Amazon moist forests,15783.8574,319051.2544
+Brazil,Tapajós-Xingu moist forests,52227.25253,335703.0799
+Brazil,Tocantins/Pindare moist forests,2934.175962,193222.876
+Brazil,Uatuma-Trombetas moist forests,74578.04463,470496.462
+Brazil,Uruguayan savanna,145.3271167,174632.2003
+Brazil,Xingu-Tocantins-Araguaia moist forests,1252.960246,265100.637
+,,,
+Canada,Alaska-St. Elias Range tundra,21343.15042,23863.07747
+Canada,Alberta-British Columbia foothills forests,1717.002676,120739.0982
+Canada,Alberta Mountain forests,26852.16282,39860.78991
+Canada,Arctic coastal tundra,102.7551891,47104.0674
+Canada,Arctic foothills tundra,0.083624492,5470.082076
+Canada,Baffin coastal tundra,0,8891.769765
+Canada,British Columbia mainland coastal forests,17627.50617,122167.5553
+Canada,Brooks-British Range tundra,1294.302454,26606.6119
+Canada,Canadian Aspen forests and parklands,6715.769427,392426.2158
+Canada,Cascade Mountains leeward forests,7540.459505,30364.29208
+Canada,Central British Columbia Mountain forests,6471.594708,71913.74711
+Canada,Central Canadian Shield forests,27630.23704,462758.0765
+Canada,Central Pacific coastal forests,639.899859,32326.52295
+Canada,Davis Highlands tundra,0,86725.76113
+Canada,Eastern Canadian forests,13444.26966,483743.3038
+Canada,Eastern Canadian Shield taiga,91.27149964,752982.8726
+Canada,Eastern forest-boreal transition,26838.60018,319165.2813
+Canada,Eastern Great Lakes lowland forests,682.5222295,88876.83725
+Canada,Fraser Plateau and Basin complex,13170.64318,137372.3726
+Canada,Gulf of St. Lawrence lowland forests,515.7795837,38495.46849
+Canada,High Arctic tundra,0,458267.7753
+Canada,Interior Alaska-Yukon lowland taiga,7433.053015,40983.77735
+Canada,Interior Yukon-Alaska alpine tundra,4227.076093,118307.7849
+Canada,Low Arctic tundra,69363.4056,795225.8698
+Canada,Mid-Continental Canadian forests,53598.33455,368730.1679
+Canada,Middle Arctic tundra,1539.004965,1019144.363
+Canada,Midwestern Canadian Shield forests,48530.44531,547161.6925
+Canada,Montana Valley and Foothill grasslands,34.1130561,14899.34803
+Canada,Muskwa-Slave Lake forests,22960.06577,262908.1429
+Canada,New England-Acadian forests,5210.793894,117022.7618
+Canada,Newfoundland Highland forests,1385.702416,16322.09882
+Canada,North Central Rockies forests,26364.46873,143696.7242
+Canada,Northern Canadian Shield taiga,33317.51643,615100.6818
+Canada,Northern Cordillera forests,45666.42907,263368.0008
+Canada,Northern mixed grasslands,1622.875462,110037.4018
+Canada,Northern short grasslands,2630.843299,133433.232
+Canada,Northern tall grasslands,396.4895627,33875.61941
+Canada,Northern transitional alpine forests,1259.070065,25717.80113
+Canada,Northwest Territories taiga,20044.48069,345782.6574
+Canada,Ogilvie-MacKenzie alpine tundra,20730.96721,197169.3833
+Canada,Okanagan dry forests,1564.393069,39113.88343
+Canada,Pacific Coastal Mountain icefields and tundra,4724.737925,24487.33089
+Canada,Palouse grasslands,5.784296643,26.60349859
+Canada,Puget lowland forests,229.4922217,5871.792752
+Canada,Queen Charlotte Islands,3805.712846,9704.203398
+Canada,South Avalon-Burin oceanic barrens,79.53595108,1909.344882
+Canada,Southern Great Lakes forests,103.8008615,24368.11683
+Canada,Southern Hudson Bay taiga,25933.97576,373238.0131
+Canada,Torngat Mountain tundra,9460.099289,31875.56183
+Canada,Western Great Lakes forests,9296.680963,73929.85349
+Canada,Yukon Interior dry forests,1860.011455,62516.34185
+Democratic Republic of the Congo,Albertine Rift montane forests,4031.158773,64759.15205
+Democratic Republic of the Congo,Angolan Miombo woodlands,0,28975.65228
+Democratic Republic of the Congo,Atlantic Equatorial coastal forests,0,9028.873473
+Democratic Republic of the Congo,Central Congolian lowland forests,33227.29672,415656.9706
+Democratic Republic of the Congo,Central Zambezian Miombo woodlands,21619.10007,413273.8819
+Democratic Republic of the Congo,East Sudanian savanna,0,2007.008929
+Democratic Republic of the Congo,Eastern Congolian swamp forests,657.2205876,92936.83907
+Democratic Republic of the Congo,Itigi-Sumbu thicket,0,356.0166353
+Democratic Republic of the Congo,Northeastern Congolian lowland forests,34023.32072,503910.9175
+Democratic Republic of the Congo,Northern Congolian forest-savanna mosaic,15438.47003,132363.7783
+Democratic Republic of the Congo,Northwestern Congolian lowland forests,0,1412.75308
+Democratic Republic of the Congo,Rwenzori-Virunga montane moorlands,554.5205937,746.1041102
+Democratic Republic of the Congo,Southern Congolian forest-savanna mosaic,0,512244.6063
+Democratic Republic of the Congo,Victoria Basin forest-savanna mosaic,3106.52056,4413.322668
+Democratic Republic of the Congo,Western Congolian forest-savanna mosaic,0,86044.34775
+Democratic Republic of the Congo,Western Congolian swamp forests,4.121858043,56174.40088
+Democratic Republic of the Congo,Zambezian flooded grasslands,0,2316.590677
+United States,Alaska Peninsula montane taiga,15392.7984,47292.66234
+United States,Alaska-St. Elias Range tundra,47521.36547,128226.8878
+United States,Aleutian Islands tundra,0,11347.46223
+United States,Allegheny Highlands forests,882.944345,84071.33373
+United States,Appalachian mixed mesophytic forests,3789.139739,192583.8406
+United States,Appalachian-Blue Ridge forests,8179.329554,159475.1409
+United States,Arctic coastal tundra,1.801070851,49154.69696
+United States,Arctic foothills tundra,14205.4963,123671.6762
+United States,Arizona Mountains forests,9969.531258,109323.8318
+United States,Atlantic coastal pine barrens,806.4069282,8640.401558
+United States,Beringia lowland tundra,18595.48303,148937.035
+United States,Beringia upland tundra,15679.06239,97332.88228
+United States,Blue Mountains forests,4890.184642,64848.97899
+United States,British Columbia mainland coastal forests,5959.062001,14376.36879
+United States,Brooks-British Range tundra,67944.23552,133261.0561
+United States,California Central Valley grasslands,861.6103995,55086.28616
+United States,California coastal sage and chaparral,1644.277288,24167.73149
+United States,California interior chaparral and woodlands,2230.706153,64505.4539
+United States,California montane chaparral and woodlands,4676.593501,20426.82848
+United States,Canadian Aspen forests and parklands,73.23011768,5884.739491
+United States,Cascade Mountains leeward forests,5554.98779,16034.91111
+United States,Central and Southern Cascades forests,8378.707182,44928.44311
+United States,Central and Southern mixed grasslands,1277.987542,282773.9945
+United States,Central forest-grasslands transition,2837.95976,407905.5663
+United States,Central Pacific coastal forests,585.2598334,40898.18705
+United States,Central tall grasslands,2714.186835,248997.8613
+United States,Central U.S. hardwood forests,3590.651806,296684.6934
+United States,Chihuahuan desert,7483.200665,206211.4409
+United States,Colorado Plateau shrublands,29144.6117,327123.4305
+United States,Colorado Rockies forests,18560.01645,133038.8564
+United States,Cook Inlet taiga,4690.167908,27807.74247
+United States,Copper Plateau taiga,3909.023678,17209.89577
+United States,East Central Texas forests,178.3504465,52753.93255
+United States,Eastern Canadian forests,0,1.383732881
+United States,Eastern Cascades forests,2221.398043,55325.65066
+United States,Eastern forest-boreal transition,219.5916196,29222.78655
+United States,Eastern Great Lakes lowland forests,68.80515841,26201.50076
+United States,Edwards Plateau savanna,58.87603342,61937.08983
+United States,Everglades,3679.464439,19985.66423
+United States,Flint Hills tall grasslands,218.470115,29679.14082
+United States,Florida sand pine scrub,141.0507438,3883.819809
+United States,Great Basin montane forests,2677.577278,5796.345842
+United States,Great Basin shrub steppe,26927.656,336627.4797
+United States,Hawaii tropical dry forests,690.5123994,6593.231229
+United States,Hawaii tropical high shrublands,754.6040279,1857.234615
+United States,Hawaii tropical low shrublands,4.05390502,1443.535887
+United States,Hawaii tropical moist forests,393.0044688,6707.45234
+United States,Interior Alaska-Yukon lowland taiga,107806.4607,403318.6627
+United States,Interior Yukon-Alaska alpine tundra,9220.986368,114863.9897
+United States,Klamath-Siskiyou forests,6674.23437,50409.76254
+United States,Middle Atlantic coastal forests,2791.511564,131828.1838
+United States,Mississippi lowland forests,3471.127789,111910.7063
+United States,Mojave desert,38635.54594,130927.407
+United States,Montana Valley and Foothill grasslands,870.9282429,66990.71022
+United States,Nebraska Sand Hills mixed grasslands,860.3475069,61255.46399
+United States,New England-Acadian forests,2812.992368,118573.8699
+United States,North Central Rockies forests,18783.84839,102553.3317
+United States,Northeastern coastal forests,1080.129945,88154.31748
+United States,Northern California coastal forests,738.437634,13230.00168
+United States,Northern Cordillera forests,2.495450112,16.29873727
+United States,Northern mixed grasslands,4449.288937,109403.4616
+United States,Northern Pacific coastal forests,25007.00879,59381.59596
+United States,Northern short grasslands,6815.398746,506397.3857
+United States,Northern tall grasslands,5074.099546,42318.11948
+United States,Northwestern Hawaii scrub,0,3.163231
+United States,Ogilvie-MacKenzie alpine tundra,0,11763.92466
+United States,Okanagan dry forests,77.95392916,14324.11818
+United States,Ozark Mountain forests,4006.607478,62150.20128
+United States,Pacific Coastal Mountain icefields and tundra,38574.81954,81932.45661
+United States,Palouse grasslands,521.8532565,46948.83324
+United States,Piney Woods forests,2519.293779,141206.4505
+United States,Puget lowland forests,40.92256921,16167.27568
+United States,Sierra Juarez and San Pedro Martir pine-oak forests,3.787465833,3.80900355
+United States,Sierra Madre Occidental pine-oak forests,1671.962795,7317.261192
+United States,Sierra Madre Oriental pine-oak forests,327.5795309,4017.457253
+United States,Sierra Nevada forests,15446.86848,52951.30144
+United States,Snake-Columbia shrub steppe,14912.86251,218607.4307
+United States,Sonoran desert,18939.09064,117043.1399
+United States,South Central Rockies forests,40103.24311,159710.5539
+United States,South Florida rocklands,3.236733031,1985.624446
+United States,Southeastern conifer forests,6872.141022,235270.6012
+United States,Southeastern mixed forests,1943.663283,347992.7834
+United States,Southern Great Lakes forests,738.1199394,220655.3081
+United States,Tamaulipan mezquital,218.6845854,58007.3297
+United States,Texas blackland prairies,196.823107,50367.43482
+United States,Upper Midwest forest-savanna transition,3801.099511,166500.0359
+United States,Wasatch and Uinta montane forests,3876.739001,41558.28726
+United States,Western Great Lakes forests,13254.26712,200647.6468
+United States,Western Gulf coastal grasslands,606.395456,72127.28946
+United States,Western short grasslands,1178.749205,436132.5792
+United States,Willamette Valley forests,154.9239159,14776.62308
+United States,Wyoming Basin shrub steppe,4101.093587,132661.6015
