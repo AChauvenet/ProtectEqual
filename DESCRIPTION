@@ -9,7 +9,7 @@ Authors@R: c(person("Alienor", "Chauvenet", role = c("aut", "cre"),
 	      person("Hugh", "Possingham", role = c("aut","ctb")))
 Depends: R (>= 3.1.0)
 URL: http://github.com/AChauvenet/ProtectEqual
-BugReports: http://github.com/hAChauvenet/ProtectEqual/issues
+BugReports: http://github.com/AChauvenet/ProtectEqual/issues
 Description: This package is used to calculate two different
 	versions of the Protection Equality metric (PE) and 
 	has the option to apply a correction factor when N is small and calculate (PEc).
