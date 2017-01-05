@@ -1,0 +1,16 @@
+Package: ProtectEqual
+Type: Package
+Title: Protection Equality (PE)
+Version: 0.1
+Date: 2015-04-16
+Authors@R: c(person("Alienor", "Chauvenet", role = c("aut", "cre"),
+		     email = "a.chauvenet@uq.edu.au"),
+	      person("Caitie", "Kuempel", role = c("aut","ctb")),
+	      person("Hugh", "Possingham", role = c("aut","ctb")))
+Depends: R (>= 3.1.0)
+Description: This package is used to calculate two different
+	versions of the Protection Equality metric (PE) and 
+	has the option to apply a correction factor when N is small and calculate (PEc).
+	It is associated with publication xxx
+License: GPL-2 | GPL-3
+LazyLoad: yes
